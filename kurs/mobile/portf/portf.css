@@ -1,0 +1,13 @@
+
+.pa{
+	height: 100px
+}
+.pa div p{
+	font-size: 18px;
+}
+.pa div .article{
+	font-size: 25px;
+}
+#section3{
+	background-image: url(../../img/biocoal.jpg);
+}
