@@ -1,0 +1,20 @@
+.pa div p{
+	font-size: 40px;
+}
+.pa div .article{
+	font-size: 	70px;
+}
+.pa{
+	max-height: 50vh;
+}
+#section3{
+	background-image: url(../img/biocoal.jpg);
+}
+@media screen and (max-width: 991px) {
+.pa div p{
+	font-size: 25px;
+}
+.pa div .article{
+	font-size: 	40px;
+}
+}
